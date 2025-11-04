@@ -21,6 +21,7 @@ attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2OCwicHVyIjoiYmxvYl9pZCJ9fQ==
 
 ## 11/3/2025 - Learning from regret.   
 
+![Screenshot 2025-11-04 at 6.14.27 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5a9351629bce8e4dd732b378c3aee36719614f07/Screenshot%202025-11-04%20at%206.14.27%E2%80%AFAM.png)
 ![Screenshot 2025-11-03 at 7.50.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--05e104769187b36a7ce8302dcb076b5d998a92d7/Screenshot%202025-11-03%20at%207.50.24%E2%80%AFPM.png)
 Good evening- or what ever time of day it is for you... 
 I haven't posted in a while as I have been busy with school, and my other projects. 
@@ -29,8 +30,9 @@ For the past 2 weeks I have been working on the topology of the rotor coils for 
 
 I am looking into generating the topologies with a python script, perhaps using the python turtle library. If you have experience doing this, let me know! 
 
-I worked for about an hour and a half today, however my timer says otherwise as I had to pause it to talk to my mom and I frogot to unpause it afterwards. 
+I worked for about an hour and a half today, however my timer says otherwise as I had to pause it to talk to my mom and I forgot to unpause it afterwards. 
 
+To clarify it has been 5 hours of working on this project since my last journal, however I only worked an hour an a half today. 
 
 If you're interested in what I do, I try and post a vlog every other week: https://www.youtube.com/watch?v=mVQ7SidtTqw
 
