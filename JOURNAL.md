@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Electro-non-magnetic generator **.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/746).
-
-
 ## 10/19/2025 - An introduction...   
 
 I started this chapter of this project 3 weeks ago, under the impression that I didn't have to journal this in the hackclub blueprint. In the past 3 weeks, I have designed a routing patterns for an electromagnet coil in Fusion360, exported this as a DXF file, where I imported it into EasyEDA to route as copper coils. In addition I design and configured a schematic that included the power source (a solar voltaic cell), connected to a screw terminal, connected to a diode (to pervent current backflow), and a capacitor to ensure that the current is stable. This all conects to the PCB coil, creating the electromagnet. 
@@ -22,4 +18,22 @@ I started this chapter of this project 3 weeks ago, under the impression that I 
 [Screenshot 2025-10-19 at 8.48.49 AM.png](/user-
 attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba40738d9a46ecb4783ed2357625f8883a52cdef/Screenshot%202025-10-19%20at%208.48.49%E2%80%AFAM.png)
     
+
+## 11/3/2025 - Learning from regret.   
+
+![Screenshot 2025-11-03 at 7.50.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--05e104769187b36a7ce8302dcb076b5d998a92d7/Screenshot%202025-11-03%20at%207.50.24%E2%80%AFPM.png)
+Good evening- or what ever time of day it is for you... 
+I haven't posted in a while as I have been busy with school, and my other projects. 
+
+For the past 2 weeks I have been working on the topology of the rotor coils for the motor, trying to create a DXF file using the sketch feature on Fusion360. This is a tedious task, it took me hours and hours to create a single coil, and with this program ending in a few weeks I don't plan on wasting any more time. I regret wasting all this time- but I think I have found a solution.  
+
+I am looking into generating the topologies with a python script, perhaps using the python turtle library. If you have experience doing this, let me know! 
+
+I worked for about an hour and a half today, however my timer says otherwise as I had to pause it to talk to my mom and I frogot to unpause it afterwards. 
+
+
+If you're interested in what I do, I try and post a vlog every other week: https://www.youtube.com/watch?v=mVQ7SidtTqw
+
+![Screenshot 2025-11-03 at 7.50.24 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ec40e282516c523f836c919dfce050590e9a0d96/Screenshot%202025-11-03%20at%207.50.24%E2%80%AFPM.png)
+     
 
